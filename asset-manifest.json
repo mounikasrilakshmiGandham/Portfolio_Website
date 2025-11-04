@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Website/static/css/main.1a83d901.css",
+    "main.js": "/Portfolio_Website/static/js/main.f18fa5ab.js",
+    "static/media/about.png": "/Portfolio_Website/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/Portfolio_Website/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/Portfolio_Website/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/Automatic Timetable.png": "/Portfolio_Website/static/media/Automatic Timetable.053a8931fc3dd63cbd46.png",
+    "static/media/Brain Tumor.png": "/Portfolio_Website/static/media/Brain Tumor.286b8700868f224cb956.png",
+    "static/media/website-blog.jpg": "/Portfolio_Website/static/media/website-blog.34169abf2d417858685b.jpg",
+    "index.html": "/Portfolio_Website/index.html",
+    "main.1a83d901.css.map": "/Portfolio_Website/static/css/main.1a83d901.css.map",
+    "main.f18fa5ab.js.map": "/Portfolio_Website/static/js/main.f18fa5ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a83d901.css",
+    "static/js/main.f18fa5ab.js"
+  ]
+}
